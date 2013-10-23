@@ -18,6 +18,28 @@
     </div>
 
 
+    <div class="nav">
+           <ul class="nav">
+    <li><a href="f1170_index.aspx" title="Home">Home</a>
+       
+    </li>
+                    
+     <li><a href="media.aspx" title="Media">Media</a>
+            <ul>
+            <li><a href="images.aspx" title="Images">Images</a></li>
+            <li><a href="games.aspx" title="Games">Games</a></li>
+          </ul>
+    </li>
+    <li><a href="about.aspx" title="Forums">About</a>
+        <ul>
+            <li><a href="Me.aspx" title="Me">Me</a></li>
+            <li><a href="TeamSlackers.aspx" title="TeamSlackers">TeamSlackers</a></li>
+          </ul>
+    </li>
+</ul>
+      </div>
+
+
    <div class="leftCol">
        <asp:SiteMapDataSource id="nav1" runat="server" />
      <asp:TreeView ID="TreeView1" runat="server" DataSourceId="nav1" />

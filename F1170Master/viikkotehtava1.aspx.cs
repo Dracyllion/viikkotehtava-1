@@ -21,12 +21,7 @@ public partial class viikkotehtava1 : System.Web.UI.Page
             Session["lmk"] = null;
         }
 
-        if (Request.Cookies["cookname"]["cook1"] != null)
-        { 
-           Request.Cookies["cookname"]["cook1"] = null; 
-        }
-
-
+      
         HttpCookie cook = new HttpCookie("cookname");
 
         cook.Values["cook1"] = this.kayttajaTextBox.Text;
