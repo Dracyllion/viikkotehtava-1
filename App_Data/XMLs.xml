@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Persons>
+  <Person>
+    <Name>Juunas</Name>
+    <Age>29</Age>
+    <Gender>Male</Gender>
+  </Person>
+
+  <Person>
+    <Name>Erkki</Name>
+    <Age>15</Age>
+    <Gender>Male</Gender>
+  </Person>
+
+  <Person>
+    <Name>Hideyoshi</Name>
+    <Age>17</Age>
+    <Gender>Hideyoshi</Gender>
+  </Person>
+
+  <Person>
+    <Name>Jooseppi</Name>
+    <Age>99</Age>
+    <Gender>Male</Gender>
+  </Person>
+  
+  <Person>
+    <Name>Irmeli</Name>
+    <Age>56</Age>
+    <Gender>Female</Gender>
+  </Person>
+  
+  
+  
+</Persons>

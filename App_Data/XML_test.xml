@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Person>
+  <name value ="Erkki">
+    <age value="16v"></age>
+    <gender value="mies"></gender>
+  </name>
+  <name value ="Niina">
+    <age value="17v"></age>
+    <gender value="nainen"></gender>
+  </name>
+  <name value ="Petri">
+    <age value="18v"></age>
+    <gender value="mies"></gender>
+  </name>
+  <name value ="Petroi">
+    <age value="18v"></age>
+    <gender value="mies"></gender>
+  </name>
+  
+</Person>
